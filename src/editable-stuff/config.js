@@ -48,7 +48,7 @@ const about = {
   imageSize: 375,
   message:
     "Hi! My name is Tristan Van, and I am currently studying computer science at Vanderbilt University. I have a passion for all things tech, and I'm currently exploring the world of full stack development. When I'm not coding, I enjoy working out or discovering new boba tea places.",
-  resume: "https://drive.google.com/file/d/1ly54SPxry3N0SsXI4xRSdfn6wMVnT6yH/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1EEIHDJyJzJKitoW2BQXbmoHKjN4-YTLe/view?usp=sharing",
 };
 
 // PROJECTS SECTION
