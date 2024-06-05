@@ -48,7 +48,7 @@ const about = {
   imageSize: 375,
   message:
     "Hi! My name is Tristan Van, and I am currently studying computer science at Vanderbilt University. I have a passion for all things tech, and I'm currently exploring the world of full stack development. When I'm not coding, I enjoy working out or discovering new boba tea places.",
-  resume: "https://drive.google.com/file/d/1EEIHDJyJzJKitoW2BQXbmoHKjN4-YTLe/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1iHB13WfKveQL9jYGYeB5-Ll6W5o--tio/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -60,8 +60,8 @@ const repos = {
   show: true,
   heading: "Projects",
   gitHubUsername: "tvan04", //i.e."johnDoe12Gh"
-  reposLength: 1,
-  specificRepos: ["popularity-predictor", "SELCA", "workout-app", ],
+  reposLength: 0,
+  specificRepos: ["rollercoaster-ranking", "popularity-predictor", "SELCA", "workout-app", ],
 };
 
 // Leadership SECTION
@@ -124,12 +124,17 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
+      company: 'Change++',
+      role: 'Software Developer',// Here Add Company Name
+      companylogo: require('../assets/img/changeplusplus.jpg'),
+      date: 'October 2023 – Present',
+    },
+    {
+      company: 'Martin County School District',
       role: 'E2 Level Technician',// Here Add Company Name
       companylogo: require('../assets/img/mcsd.png'),
       date: 'August 2019 – May 2022',
     },
-    
-    
   ]
 }
 
