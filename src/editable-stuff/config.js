@@ -48,7 +48,7 @@ const about = {
   imageSize: 375,
   message:
     "Hi! My name is Tristan Van, and I am currently studying computer science at Vanderbilt University. I have a passion for all things tech, and I'm currently exploring the world of full stack development. When I'm not coding, I enjoy working out or discovering new boba tea places.",
-  resume: "https://drive.google.com/file/d/1iHB13WfKveQL9jYGYeB5-Ll6W5o--tio/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1PweQRkz26w4AhzcWF3Rn026ofUgiA9wy/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -128,6 +128,12 @@ const experiences = {
       role: 'Software Developer',// Here Add Company Name
       companylogo: require('../assets/img/changeplusplus.jpg'),
       date: 'October 2023 – Present',
+    },
+    {
+      company: 'HP Inc.',
+      role: 'Business Analytics Extern',// Here Add Company Name
+      companylogo: require('../assets/img/hp.png'),
+      date: 'Feb 2024 – April 2024',
     },
     {
       company: 'Martin County School District',
